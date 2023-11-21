@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=MasterCore 
+Comment=MasterCore P2P Cryptocurrency
+Comment[fr]=MasterCore, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MasterCore, eşten eşe kriptografik sanal para birimi
+Exec=mastercore-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/mastercore;
+Categories=Office;Finance;
+StartupWMClass=mastercore-qt
